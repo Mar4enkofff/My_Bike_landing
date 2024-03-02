@@ -2,7 +2,7 @@
 This is a landing page for the My Bike store. The My Bike Landing Page is a static website built using HTML, SCSS and JavaScript. The website is fully responsive and optimized for different screen sizes, from desktop to mobile devices.
 
 Live Preview
-You can view a live demo of the website [HERE](https://mar4enkofff.github.io/My_Bike_landing/)
+You can view a live demo of the website [HERE](https://github.com/Mar4enkofff/My_Bike_landing)
 
 Landing page was implemented according to [Figma design](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?mode=dev)
 
